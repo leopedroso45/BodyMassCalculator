@@ -2,6 +2,24 @@
 
 Exercise to work with some widgets.
 
+##Widgets learned
+
+- Scaffold
+
+- AppBar
+
+- SingleChildScrollView
+
+- RaisedButton
+
+- Forms
+
+- GlobalKey
+
+- TextField
+
+- TextFormField
+
 ## Getting Started
 
 About the course:
